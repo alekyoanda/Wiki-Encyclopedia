@@ -1,0 +1,2 @@
+# Wiki-Encyclopedia
+Django project
